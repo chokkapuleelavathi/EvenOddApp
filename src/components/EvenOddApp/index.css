@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.container {
+  background-image: linear-gradient(#ff6e7f, #bfe9ff);
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-family: 'Roboto';
+  border-radius: 10px;
+  margin: 10px;
+  padding: 10px;
+}
+.button {
+  border-radius: 10px;
+  border: solid 1px #0f172a;
+  padding: 10px;
+}
+.description {
+  color: #334155;
+}
+.note {
+  color: #1e293b;
+}
